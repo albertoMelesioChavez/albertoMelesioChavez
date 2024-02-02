@@ -32,22 +32,6 @@
 - 📫 How to reach me ...alberto.perse@gmail.com.
 
 <hr>
-
-
-
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
- ## 📄📜 Stats
-
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=albertoMelesioChavez&&show_icons=true&count_private=true&theme=github_dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=albertoMelesioChavez&theme=blueberry_duo"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoMelesioChavez&layout=compact&theme=github_dark"/>
-</p>
-
-
 </br>
 
 
@@ -112,4 +96,16 @@ You can click the Preview link to take a look at your changes.
 </br>
 <a href="https://www.buymeacoffee.com/albertoperh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" >
 
-<br>
+</br>
+
+ ## 📄 Stats
+
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=albertoMelesioChavez&&show_icons=true&count_private=true&theme=github_dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=albertoMelesioChavez&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoMelesioChavez&layout=compact&theme=github_dark"/>
+</p>
+
+
+</br>
+
